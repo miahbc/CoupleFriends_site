@@ -15,7 +15,7 @@ def yelpapi(request):
 
     results={}
     headers = {
-    'Authorization': 'Bearer lcFL49Xok8i01XW9qJqchk3RWDku9IORIJbQmBy61myAjlvPkUejwIAPZacq1ylC2aJRRLEZHFgEYuFFzA8EFjEC6hXmxiGIaG-Mqrc6z0JOT0lgHcH2Uuz7C6ztYnYx'
+    'Authorization': 'Bearer '
     }
 
     response = requests.request("GET", url, headers=headers, data=results)

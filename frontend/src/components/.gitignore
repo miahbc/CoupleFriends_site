@@ -1,5 +1,0 @@
-# Yelp authentication instructions: Authorization HTTP header value as Bearer API_KEY.
-
-yelp_client_id = "6DC0wklyCCirKpglOOCyow"
-
-yelp_apikey = "lcFL49Xok8i01XW9qJqchk3RWDku9IORIJbQmBy61myAjlvPkUejwIAPZacq1ylC2aJRRLEZHFgEYuFFzA8EFjEC6hXmxiGIaG-Mqrc6z0JOT0lgHcH2Uuz7C6ztYnYx"
